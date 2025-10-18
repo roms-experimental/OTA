@@ -1,6 +1,15 @@
 {
   "response": [
     {
+      "datetime": 1760741785,
+      "filename": "lineage-23.0-20251017-UNOFFICIAL-fogos.zip",
+      "id": "56fbb0b9df787aff998fd82ba2cdd76b6f09544f5645fdcb52d00d9433c2b709",
+      "romtype": "UNOFFICIAL",
+      "size": 1585618659,
+      "url": "https://sourceforge.net/projects/irawansprojekt/files/fogos/Android%2016/LineageOS/18%20October%202025/lineage-23.0-20251017-UNOFFICIAL-fogos.zip/download",
+      "version": "23.0"
+    },
+    {
       "datetime": 1760723582,
       "filename": "lineage-22.2-20251017-UNOFFICIAL-fogos.zip",
       "id": "0ddc6de1f72a67b22c64d6a05826e75981b47df5c067663d01540a9470b34e46",
