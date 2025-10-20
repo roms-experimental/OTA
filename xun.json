@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1756744932,
-      "filename": "lineage-22.2-20250901_164402-UNOFFICIAL-xun.zip",
-      "id": "9dc66d70cdb0b81e0d8a56fab128cc7468da63516845c9390dc9024e16a8b241",
+      "datetime": 1760968962,
+      "filename": "lineage-22.2-20251020_140246-UNOFFICIAL-xun.zip",
+      "id": "76462f0f48c8ce34fac52b389b1b4b5ee44cba38137994ecb5ec4db58aa09671",
       "romtype": "UNOFFICIAL",
-      "size": 1091990201,
-      "url": "https://sourceforge.net/projects/irawansprojekt/files/xun/Android%2015/LineageOS/01%20September%202025/lineage-22.2-20250901_164402-UNOFFICIAL-xun.zip/download",
+      "size": 1073118808,
+      "url": "https://sourceforge.net/projects/irawansprojekt/files/xun/Android%2015/LineageOS/20%20October%202025/lineage-22.2-20251020_140246-UNOFFICIAL-xun.zip/download",
       "version": "22.2"
     }
   ]
